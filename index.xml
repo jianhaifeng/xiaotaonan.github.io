@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome To My Blog</title>
+    <link>https://xiaotaonan.github.io/</link>
+    <description>Recent content on Welcome To My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nxtchongchong@163.com (XiaotaoNAN)</managingEditor>
+    <webMaster>nxtchongchong@163.com (XiaotaoNAN)</webMaster>
+    <copyright>XiaotaoNAN</copyright>
+    
+        <atom:link href="https://xiaotaonan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

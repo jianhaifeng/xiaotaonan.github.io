@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://xiaotaonan.github.io/sitemap.xml
