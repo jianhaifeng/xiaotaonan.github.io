@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CRaC on 博客</title>
+    <link>https://xiaotaonan.github.io/cn/cntags/crac/</link>
+    <description>Recent content in CRaC on 博客</description>
+    <image>
+      <title>博客</title>
+      <url>https://xiaotaonan.github.io/images/papermod-cover.png</url>
+      <link>https://xiaotaonan.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xiaotaonan.github.io/cn/cntags/crac/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JIT启动预热</title>
+      <link>https://xiaotaonan.github.io/cn/posts/jit-warmstartup/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://xiaotaonan.github.io/cn/posts/jit-warmstartup/</guid>
+      <description>主要介绍CRaC的适用应用场景以及相对于传统CDS、AOT、JIT相关启动加速方案的优势。</description>
+    </item>
+  </channel>
+</rss>
