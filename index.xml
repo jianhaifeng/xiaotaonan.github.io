@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <link>https://xiaotaonan.github.io/</link>
+    <description>Recent content on Blog</description>
+    <image>
+      <title>Blog</title>
+      <url>https://xiaotaonan.github.io/images/papermod-cover.png</url>
+      <link>https://xiaotaonan.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://xiaotaonan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comparison of ReadyNow and CRaC</title>
+      <link>https://xiaotaonan.github.io/posts/readynow-crac/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://xiaotaonan.github.io/posts/readynow-crac/</guid>
+      <description>Comparing CRaC and Azul Prime ReadyNow through mainstream microservice frameworks.</description>
+    </item>
+    <item>
+      <title>CRaC: Brief analysis of 4&#43;1 view architecture</title>
+      <link>https://xiaotaonan.github.io/posts/crac41/</link>
+      <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://xiaotaonan.github.io/posts/crac41/</guid>
+      <description>A brief analysis of the CRaC architecture is mainly conducted from the 4&#43;1 perspective.</description>
+    </item>
+    <item>
+      <title>JIT and Tuning Warm-up</title>
+      <link>https://xiaotaonan.github.io/posts/jit-warmstartup/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://xiaotaonan.github.io/posts/jit-warmstartup/</guid>
+      <description>Mainly introduces the applicable application scenarios of CRaC and its advantages over traditional CDS, AOT, and JIT-related startup acceleration solutions.</description>
+    </item>
+  </channel>
+</rss>
